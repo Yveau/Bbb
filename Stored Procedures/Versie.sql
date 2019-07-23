@@ -1,0 +1,1 @@
+﻿create procedure Bbb.Versie as begin select 'Versie 0.0' end
